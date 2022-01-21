@@ -23,7 +23,7 @@ When you deploy operating systems with Configuration Manager, the Windows Assess
 - [Download the Windows ADK](/windows-hardware/get-started/adk-install)
 
     > [!IMPORTANT]
-    > Windows PE is a separate installer. Make sure to download both the **Windows ADK** and the **Windows PE add-on for the ADK**.
+    > Windows PE is a separate installer. Make sure to download both the **Windows ADK** and the **Windows PE add-on for the ADK**. The **Windows ADK** and the **Windows PE add-on for the ADK** should be the same version level and not mixed between supported versions.
 
 ## Windows ADK versions
 
